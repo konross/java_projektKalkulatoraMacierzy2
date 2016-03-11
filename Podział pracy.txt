@@ -1,0 +1,11 @@
+Konrad Stano:
+-merytoryczny opis programu
+-javadoc
+-wygl¹d programu
+
+Pawe³ Szostak:
+-instrukcja obs³ugi
+-diagram klas wykonany na samym koñcu
+
+Sam program powstawa³ wspólnymi si³ami. Spotykaliœmy siê na uczelni z laptopami i wspólnie
+staraliœmy siê pisaæ kod oraz rozwi¹zywaæ pojawi¹j¹ce siê przy tym zawi³oœci i problemy.
